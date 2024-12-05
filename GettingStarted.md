@@ -1,6 +1,6 @@
- # Getting Started with [Synth Flute] 🎵
+ # Getting Started with Synth Flute 🎵
 
-Welcome! This guide will walk you through setting up and playing your new [Synth Flute].
+Welcome! This guide will walk you through setting up and playing your new Synth Flute.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome! This guide will walk you through setting up and playing your new [Synth
 
 Setting up this instrument is simple. Follow these steps:
 
-### Required Software and Libraries
+### Required Software
 1. **Arduino IDE**
    - Download and install: [Arduino IDE](https://www.arduino.cc/en/software).
 
@@ -38,7 +38,7 @@ Once completed, you’re ready to play!
 
 ## 2. Hardware Assembly
 
-This instrument comes fully assembled. No additional hardware setup is required.
+This instrument comes fully assembled. You don't need any additional hardware setup.
 
 ---
 
