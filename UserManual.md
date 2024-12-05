@@ -1,16 +1,16 @@
-# User Manual for [Synth Flute] 🎶
+# User Manual for Synth Flute 🎶
 
-Welcome to the [Synth Flute] user manual! This guide outlines all potential interactions and creative approaches to engage with the instrument.
+Welcome to the Synth Flute user manual! This guide outlines all potential interactions and creative approaches to engage with the instrument.
 
 ---
 
 ## 1. Overview of the Instrument
 
-The [Synth Flute] is designed to be intuitive and expressive, allowing users to create music in an innovative way. Its key components include:
+The Synth Flute is designed to be intuitive and expressive, allowing users to create music innovatively. Its key components include:
 
 - **Microphone Sensor:** Located at the top of the instrument; used to trigger sound through breath control.
 - **Six Buttons:** Arranged for easy access, each corresponding to a specific note.
-- **USB-C Port:** For connecting the instrument to a computer for power and data.
+- **USB-C Port:** Connect the instrument to a computer for power and data.
 
 ---
 
