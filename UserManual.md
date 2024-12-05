@@ -1,4 +1,4 @@
-# User Manual for Synth Flute 🎶
+# User Manual for Synth Flute
 
 Welcome to the Synth Flute user manual! This guide outlines all potential interactions and creative approaches to engage with the instrument.
 
