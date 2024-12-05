@@ -1,4 +1,4 @@
- # Getting Started with Synth Flute 🎵
+ # Getting Started with Synth Flute
 
 Welcome! This guide will walk you through setting up and playing your new Synth Flute.
 
